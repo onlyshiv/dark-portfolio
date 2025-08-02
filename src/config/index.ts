@@ -59,7 +59,7 @@ export const SITE_CONTENT: SiteContent = {
       name: "Spotify Clone",
       summary: "A music streaming app that emulates Spotify's core features.",
       linkPreview: "/",
-      linkSource: "https://github.com/immois/astro-zen",
+      linkSource: "/",
       image: "/spotifu.png",
     },
   ],
